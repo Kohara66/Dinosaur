@@ -8,7 +8,8 @@ public class DinasourSupervisor {
         Dinosaur velociraptor = new Dinosaur();
         t_rex.roar();
         velociraptor.roar();
-
+        Dinosaur diplodocus = new Dinosaur();
+        diplodocus.roar();
 
     }
 }
